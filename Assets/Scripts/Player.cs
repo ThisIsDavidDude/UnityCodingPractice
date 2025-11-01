@@ -18,7 +18,7 @@ public class Player : MonoBehaviour
 
     private float horizontalScreenLimit = 9.5f;
 
-    private float verticalScreenLimit = 5.5f;
+    private float verticalScreenLimit = 2.5f;
 
     public GameObject bulletPrefab;
 
@@ -53,10 +53,15 @@ public class Player : MonoBehaviour
         }
 
         //Limit the player movement on screen vertically
-        if (transform.position.y > verticalScreenLimit || transform.position.y < -verticalScreenLimit)
+        if (transform.position.y > 0.1f)
         {
-            transform.position = new Vector3(transform.position.x, -transform.position.y, 0);
+            transform.position = new Vector3(transform.position.x, 0.1f, 0);
         }
+        else if (transform.position.y < -verticalScreenLimit)
+        {
+            transform.position = new Vector3(transform.position.x, -verticalScreenLimit, 0);
+        }
+        
 
     }
 
