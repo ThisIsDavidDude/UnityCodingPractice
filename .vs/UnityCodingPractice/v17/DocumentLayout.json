@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|c:\\users\\davin\\onedrive\\desktop\\unityprojects\\unitycodingpractice\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|c:\\users\\davin\\onedrive\\desktop\\unityprojects\\unitycodingpractice\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|c:\\users\\davin\\onedrive\\desktop\\unityprojects\\unitycodingpractice\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5C9D9B-008A-B734-CD98-6EEF08AEDB4C}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T21:08:16.754Z",
               "IsPinned": true,
@@ -45,41 +49,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T21:01:33.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
-              "ToolTip": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:51:25.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwEIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T19:53:09.621Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy2.cs",
+              "DocumentMoniker": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Enemy2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy2.cs",
+              "ToolTip": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Enemy2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:17:23.291Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:01:33.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:51:25.035Z"
             }
           ]
         }
