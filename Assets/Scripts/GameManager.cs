@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
     }
     void CreateEnemyTwo()
     {
-        Instantiate(enemyTwoPrefab, new Vector3(-6.5f, Random.Range(-3.6f, 4.75f), 0), Quaternion.identity);
+        Instantiate(enemyTwoPrefab, new Vector3(-11.5f, Random.Range(-3.6f, 4.75f), 0), Quaternion.identity);
         Debug.Log("Enemy Two Created at "+ enemyTwoPrefab.transform.position.y);
     }
 
