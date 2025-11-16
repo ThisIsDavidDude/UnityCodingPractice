@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class Enemy2 : MonoBehaviour
 {
+
+    public GameObject explosionPrefab;
+
+    private GameManager gameManager;
     // Start is called before the first frame update
     void Start()
     {
-        
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
     // Update is called once per frame
@@ -19,4 +23,22 @@ public class Enemy2 : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D WhatDidIHit)
+    {
+        if (WhatDidIHit.tag == "Player")
+        {
+            WhatDidIHit.GetComponent<PlayerController>().LoseALife();
+            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+            Destroy(this.gameObject);
+        }
+        else if (WhatDidIHit.tag == "Weapons")
+        {
+            Destroy(WhatDidIHit.gameObject);
+            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+            Destroy(this.gameObject);
+            gameManager.AddScore(5);
+        }
+    }
+
 }

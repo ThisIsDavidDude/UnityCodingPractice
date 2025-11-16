@@ -1,21 +1,31 @@
 {
   "context": {
-    "projectPath": "C:/Users/davin/OneDrive/Desktop/UnityProjects/UnityCodingPractice/Packages",
+    "projectPath": "C:/Users/jayle/OneDrive/UCF 3/team assignment/UnityWeek12Assignment/Packages",
     "unityVersion": "6000.2.10f1"
   },
   "inputs": [
-    "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Packages\\manifest.json",
-    "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Packages\\packages-lock.json",
+    "C:\\Users\\jayle\\OneDrive\\UCF 3\\team assignment\\UnityWeek12Assignment\\Packages\\manifest.json",
+    "C:\\Users\\jayle\\OneDrive\\UCF 3\\team assignment\\UnityWeek12Assignment\\Packages\\packages-lock.json",
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.10f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "C:\\Users\\davin\\OneDrive\\Desktop\\UnityProjects\\UnityCodingPractice\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "C:\\Users\\jayle\\OneDrive\\UCF 3\\team assignment\\UnityWeek12Assignment\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "Unity UI",
+      "resolvedPath": "C:\\Users\\jayle\\OneDrive\\UCF 3\\team assignment\\UnityWeek12Assignment\\Library\\PackageCache\\com.unity.ugui@7056cb05de4c",
+      "fingerprint": "7056cb05de4c8d42fc864130edd83b3a093a8505",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
       "source": "builtin",
       "testable": false
     },
